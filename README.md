@@ -4,6 +4,15 @@
 **Course:** CSC 372 – Web Development  
 **Assignment:** Assignment 5: React
 
+## Live Demo
+
+The completed React TV Show Explorer application is deployed on Render.
+
+**Live Website:** https://cam-tv-show-explorer.onrender.com
+
+Users can access the application directly to search for television shows,
+view show details, and navigate between pages.
+
 ## Project Description
 
 TV Show Explorer is a React single-page application built with Vite that allows users to search for television shows using the TVmaze API.
